@@ -1,5 +1,3 @@
-Here’s your updated GitHub bio with a professional and engaging touch:  
-
 # Hi there, I'm Mayank Parihar 👋
 
 🎓 **Integrated B.Tech (Computer Science Engineering) + MBA** student at **Amity University** (Graduating in 2028)
