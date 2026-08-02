@@ -63,7 +63,7 @@ A data-driven project analyzing urban traffic patterns to identify congestion tr
 
 **Tech Used:** Python, Pandas, Matplotlib
 
-> More analytics, finance, SQL, machine learning, and dashboard projects will be added as I continue learning.
+"This GitHub showcases projects focused on Business Analytics, Finance, Artificial Intelligence, and Data-Driven Decision Making. Each repository demonstrates practical problem-solving and continuous learning."
 
 ---
 
